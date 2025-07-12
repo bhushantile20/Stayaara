@@ -1,5 +1,5 @@
 
-# MERN 🏛 Real Estate App
+# MERN 🏛 Real Estate App -Stayaara
 
 Real Estate App built on the MERN (MongoDB, Express, React, Node.js) stack. Whether you're looking to explore available properties for rent or sale, or you want to manage your own listings, our app has got you covered!
 
@@ -41,33 +41,7 @@ View Your Listings
 
 ## Screenshots
 
-![signup](https://i.postimg.cc/Gtt1X9qz/Sign-Up.png)
 
-![Sign in](https://i.postimg.cc/LXqcPGX0/Log-in.png)
-
-![Dashboard](https://i.postimg.cc/J4Bh8d5x/Home.png)
-
-![About](https://i.postimg.cc/kX9nrXDJ/About.png)
-
-![Profile](https://i.postimg.cc/DwT5dHCY/Profile.png)
-
-![Listing a](https://i.postimg.cc/9FWrdBdY/Create-Listing-a.png)
-
-![Listing b](https://i.postimg.cc/xjk3MnPP/Create-Listing-b.png)
-
-![Update Listing](https://i.postimg.cc/KYDx06rq/Update-Listing.png)
-
-![Listing Lists](https://i.postimg.cc/cCnDm8VQ/Listing-Lists.png)
-
-![Listing View](https://i.postimg.cc/Z0kJ7p0Z/Listing-View.png)
-
-![Filter 1](https://i.postimg.cc/sDFkQVhk/Filter-1.png)
-
-![Filter 2](https://i.postimg.cc/bvJnxfnP/Filter-2.png)
-
-![Filter 3](https://i.postimg.cc/XJ6VVw4P/Filter-3.png)
-
-![Filter 4](https://i.postimg.cc/cHxbMHmH/Filter-4.png)
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
@@ -154,6 +128,5 @@ To run this project, you will need to add the following environment variables to
 
 ---
 
-Made with ❤️ by Muazam
 
 </div>
