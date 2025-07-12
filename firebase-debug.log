@@ -1,0 +1,68 @@
+[debug] [2025-07-11T11:03:53.198Z] ----------------------------------------------------------------------
+[debug] [2025-07-11T11:03:53.200Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\bhush\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-07-11T11:03:53.201Z] CLI Version:   14.10.1
+[debug] [2025-07-11T11:03:53.201Z] Platform:      win32
+[debug] [2025-07-11T11:03:53.201Z] Node Version:  v22.11.0
+[debug] [2025-07-11T11:03:53.201Z] Time:          Fri Jul 11 2025 16:33:53 GMT+0530 (India Standard Time)
+[debug] [2025-07-11T11:03:53.201Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-07-11T11:03:53.207Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-07-11T11:03:53.208Z] > authorizing via signed-in user (btgroup101@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\broker\varad
+
+[debug] [2025-07-11T11:06:12.526Z] ExitPromptError: User force closed the prompt with SIGINT
+    at Interface.sigint (C:\Users\bhush\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\@inquirer\core\dist\commonjs\lib\create-prompt.js:101:37)
+    at Interface.emit (node:events:518:28)
+    at Interface.emit (node:domain:489:12)
+    at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1124:18)
+    at ReadStream.onkeypress (node:internal/readline/interface:263:20)
+    at ReadStream.emit (node:events:530:35)
+    at ReadStream.emit (node:domain:489:12)
+    at emitKeys (node:internal/readline/utils:370:14)
+    at emitKeys.next (<anonymous>)
+    at ReadStream.onData (node:internal/readline/emitKeypressEvents:64:36)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2025-07-11T11:06:17.735Z] ----------------------------------------------------------------------
+[debug] [2025-07-11T11:06:17.737Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\bhush\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-07-11T11:06:17.737Z] CLI Version:   14.10.1
+[debug] [2025-07-11T11:06:17.738Z] Platform:      win32
+[debug] [2025-07-11T11:06:17.738Z] Node Version:  v22.11.0
+[debug] [2025-07-11T11:06:17.738Z] Time:          Fri Jul 11 2025 16:36:17 GMT+0530 (India Standard Time)
+[debug] [2025-07-11T11:06:17.738Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-07-11T11:06:17.744Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-07-11T11:06:17.745Z] > authorizing via signed-in user (btgroup101@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\broker\varad
+
+[debug] [2025-07-11T11:28:18.038Z] ExitPromptError: User force closed the prompt with SIGINT
+    at Interface.sigint (C:\Users\bhush\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\@inquirer\core\dist\commonjs\lib\create-prompt.js:101:37)
+    at Interface.emit (node:events:518:28)
+    at Interface.emit (node:domain:489:12)
+    at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1124:18)
+    at ReadStream.onkeypress (node:internal/readline/interface:263:20)
+    at ReadStream.emit (node:events:530:35)
+    at ReadStream.emit (node:domain:489:12)
+    at emitKeys (node:internal/readline/utils:370:14)
+    at emitKeys.next (<anonymous>)
+    at ReadStream.onData (node:internal/readline/emitKeypressEvents:64:36)
+[error] 
+[error] Error: An unexpected error has occurred.
