@@ -31,7 +31,10 @@ View Your Listings
 
 **Database:** Mongo DB
 
-**Firebase:** Google account authentication, Image Uploading
+**Cloudinary:** Image Uploading
+**Email:** Authentication
+
+
 
 
 
@@ -40,6 +43,7 @@ View Your Listings
 
 
 ## Screenshots
+<img width="1919" height="985" alt="g" src="https://github.com/user-attachments/assets/7c53a382-7fcb-4d2a-90c5-1b1c508a93e9" />
 
 
 ## Environment Variables
