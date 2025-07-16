@@ -1,5 +1,5 @@
 
-# MERN 🏛 Real Estate App -Stayaara
+Stayaara - MERN Real Estate App 
 
 Real Estate App built on the MERN (MongoDB, Express, React, Node.js) stack. Whether you're looking to explore available properties for rent or sale, or you want to manage your own listings, our app has got you covered!
 
@@ -44,6 +44,9 @@ View Your Listings
 
 ## Screenshots
 <img width="1919" height="985" alt="g" src="https://github.com/user-attachments/assets/7c53a382-7fcb-4d2a-90c5-1b1c508a93e9" />
+
+<img width="1847" height="983" alt="image" src="https://github.com/user-attachments/assets/a42fe376-8262-4cbc-b94d-64a103fa3d16" />
+
 
 
 ## Environment Variables
